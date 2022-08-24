@@ -1,12 +1,24 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 "crosing should be crosing". Doug Linder
 "crosing should be crosing".
 
 =======
+=======
+>>>>>>> 3992630 (Create new txt file)
 <<<<<<< HEAD
 "crosing should be crosing".
 =======
 "crosing should be crosing". Doug Linder
 >>>>>>> 582012f (Update In The add-quotes branch)
+<<<<<<< HEAD
 >>>>>>> 55e45b8 (Update In The add-quotes branch)
+=======
+=======
+
+"crosing should be crosing". Doug Linder
+"crosing should be crosing".
+
+>>>>>>> 65dd8bd (Create new txt file)
+>>>>>>> 3992630 (Create new txt file)

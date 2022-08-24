@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 "Simplicity is the soul of efficiency."
 "Nature is pleased with simplicity. And nature is no dummy."
@@ -9,9 +10,21 @@
 "Simplicity is the soul of efficiency."
 >>>>>>> d5c89c7 (Create new txt file)
 =======
+=======
+>>>>>>> 3992630 (Create new txt file)
 "Simplicity is the soul of efficiency."
 =======
 "Simplicity is the soul of efficiency."
 "Nature is pleased with simplicity. And nature is no dummy."
 >>>>>>> 582012f (Update In The add-quotes branch)
+<<<<<<< HEAD
 >>>>>>> 55e45b8 (Update In The add-quotes branch)
+=======
+=======
+
+"Simplicity is the soul of efficiency."
+"Nature is pleased with simplicity. And nature is no dummy."
+=======
+"Simplicity is the soul of efficiency."
+>>>>>>> 65dd8bd (Create new txt file)
+>>>>>>> 3992630 (Create new txt file)
