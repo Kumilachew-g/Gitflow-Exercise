@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 
 "crosing should be crosing". Doug Linder
 "crosing should be crosing".
 
+=======
+<<<<<<< HEAD
+"crosing should be crosing".
+=======
+"crosing should be crosing". Doug Linder
+>>>>>>> 582012f (Update In The add-quotes branch)
+>>>>>>> 55e45b8 (Update In The add-quotes branch)
